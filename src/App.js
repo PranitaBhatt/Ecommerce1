@@ -7,6 +7,7 @@ import Footer from './Components/Footer/Footer';
 import Navbar from './Components/Navbar/Navbar';
 import Cart from './Pages/Cart';
 import LoginSignup from './Pages/LoginSignup';
+
 import Product from './Pages/Product.jsx';
 import Shop from './Pages/Shop';
 import ShopCategory from './Pages/ShopCategory';
